@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
-</p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>AK Bot</b>
 </h1>
 
 
@@ -66,7 +63,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/EvamariaTG/evamaria
+git clone https://github.com/AK4111/Akautofilter
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
